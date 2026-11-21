@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1699573f6911ef6b",
+        "id": "ee365d019333e5c4",
         "type": "tabs",
         "children": [
           {
-            "id": "5943e67bd6a28b5d",
+            "id": "c53fad4050cf641d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sessions/2026-11-21.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-21"
             }
           }
         ]
@@ -34,8 +40,13 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -50,7 +61,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -58,7 +71,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
             }
           }
         ]
@@ -88,7 +106,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
             }
           },
           {
@@ -99,7 +119,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
             }
           },
           {
@@ -109,8 +131,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -118,7 +144,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "bf11f852e6760e05",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "sessions/2026-11-21.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notes de bas de page"
             }
           }
         ]
@@ -130,16 +174,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "5943e67bd6a28b5d",
+  "active": "c53fad4050cf641d",
   "lastOpenFiles": [
+    "IA/Exercices/1. Routeur multi-modèles minimal en Rust.md",
+    "IA/Exercices/2. Boucle d'agent bornée avec validation de schéma.md",
+    "IA/Exercices/5. Workflow agentique isolé dans un worktree ou conteneur.md",
+    "sessions/2026-11-21.md",
+    "IA/Exercices/4. Agent de génération de tests orienté cas limites.md",
+    "inbox/Hugging face.md",
+    "IA/Exercices/3. Refactoring sous contrainte de tests existants.md",
+    "IA/Dev assisté.md",
+    "IA/Exercices",
+    "inbox/Je suis en train de faire un test pour l'avenir.md",
+    "inbox/Large Language Models (LLM).md",
+    "IA",
+    "inbox",
+    "Sans titre",
+    "sessions",
     "test units.md",
     "readme.md",
     "Units test.md",
